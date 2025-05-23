@@ -1,4 +1,4 @@
-* This is for Supercell AI Hackathon *
+*This is for Supercell AI Hackathon*
 
 # RiddleSense
 
