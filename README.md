@@ -1,3 +1,5 @@
+*** This is for Supercell AI Hackathon ***
+
 # RiddleSense
 
 **An AI-powered lateral thinking puzzle game that adapts to your play style and guides you through the mystery with personalized, context-aware hints.**
